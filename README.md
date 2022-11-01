@@ -1,1 +1,1 @@
-![alt text](https://github.com/neoenze/neoenze/title.png?raw=true)
+![alt text](https://raw.githubusercontent.com/neoenze/neoenze/main/title.png)
