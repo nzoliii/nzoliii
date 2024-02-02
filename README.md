@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neoenze/neoenze/main/title.png" />
+  <img src="https://i.redd.it/iniwwqe8pilz.jpg" />
 </p>
